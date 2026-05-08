@@ -1,17 +1,26 @@
-Emilio-Reyes-HTML-Lab1/
-│
-├── index.html
-├── services.html
-├── contact.html
-│
-├── CSS/
-│   └── styles.css
-│
-├── Scripts/
-│   └── script.js
-│
-└── Images/
-    ├── pic1.jpg
-    ├── pic2.jpg
-    ├── pic3.jpg
-    └── pic4.jpg
+body {
+    background-color: #ff0000;
+    font-family: Arial;
+    padding: 20px;
+}
+
+h1 {
+    color: darkred;
+}
+
+#navbar {
+    margin-bottom: 20px;
+}
+
+.nav-button {
+    background-color: orange;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.nav-button:hover {
+    background-color: yellow;
+}
+
