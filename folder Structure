@@ -1,0 +1,17 @@
+Emilio-Reyes-HTML-Lab1/
+│
+├── index.html
+├── services.html
+├── contact.html
+│
+├── CSS/
+│   └── styles.css
+│
+├── Scripts/
+│   └── script.js
+│
+└── Images/
+    ├── pic1.jpg
+    ├── pic2.jpg
+    ├── pic3.jpg
+    └── pic4.jpg
