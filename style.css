@@ -1,5 +1,5 @@
 body {
-    background-color: #ff0000;
+    background-color: #ffe100;
     font-family: Arial;
     padding: 20px;
 }
@@ -16,11 +16,10 @@ h1 {
     background-color: orange;
     padding: 10px;
     margin-right: 10px;
-    border: 1px solid black;
+    border: 1px solid rgb(9, 31, 105);
     cursor: pointer;
 }
 
 .nav-button:hover {
     background-color: yellow;
 }
-
